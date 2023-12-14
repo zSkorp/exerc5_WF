@@ -1,0 +1,11 @@
+C:\Users\Publico\source\repos\EX5WF\EX5WF\bin\Debug\EX5WF.exe.config
+C:\Users\Publico\source\repos\EX5WF\EX5WF\bin\Debug\EX5WF.exe
+C:\Users\Publico\source\repos\EX5WF\EX5WF\bin\Debug\EX5WF.pdb
+C:\Users\Publico\source\repos\EX5WF\EX5WF\obj\Debug\EX5WF.csproj.AssemblyReference.cache
+C:\Users\Publico\source\repos\EX5WF\EX5WF\obj\Debug\EX5WF.csproj.SuggestedBindingRedirects.cache
+C:\Users\Publico\source\repos\EX5WF\EX5WF\obj\Debug\EX5WF.Form1.resources
+C:\Users\Publico\source\repos\EX5WF\EX5WF\obj\Debug\EX5WF.Properties.Resources.resources
+C:\Users\Publico\source\repos\EX5WF\EX5WF\obj\Debug\EX5WF.csproj.GenerateResource.cache
+C:\Users\Publico\source\repos\EX5WF\EX5WF\obj\Debug\EX5WF.csproj.CoreCompileInputs.cache
+C:\Users\Publico\source\repos\EX5WF\EX5WF\obj\Debug\EX5WF.exe
+C:\Users\Publico\source\repos\EX5WF\EX5WF\obj\Debug\EX5WF.pdb
